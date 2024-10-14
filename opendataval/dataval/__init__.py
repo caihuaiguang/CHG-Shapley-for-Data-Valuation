@@ -44,7 +44,7 @@ from opendataval.dataval.ame import AME
 from opendataval.dataval.api import DataEvaluator, ModelLessMixin, ModelMixin
 from opendataval.dataval.csshap import ClassWiseShapley
 from opendataval.dataval.dvrl import DVRL
-from opendataval.dataval.influence import InfluenceFunction, InfluenceSubsample
+from opendataval.dataval.influence import InfluenceFunction, InfluenceSubsample, CHGShapley
 from opendataval.dataval.knnshap import KNNShapley
 from opendataval.dataval.lava import LavaEvaluator
 from opendataval.dataval.margcontrib import (

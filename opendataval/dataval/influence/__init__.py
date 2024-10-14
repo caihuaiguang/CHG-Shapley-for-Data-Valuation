@@ -6,3 +6,4 @@ between the naming of `InfluenceFunction` and `InfluenceSubsample`.
 
 from opendataval.dataval.influence.influence import InfluenceFunction
 from opendataval.dataval.influence.infsub import InfluenceSubsample
+from opendataval.dataval.influence.chgshaply import CHGShapley
