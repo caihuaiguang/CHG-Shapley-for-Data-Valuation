@@ -3,7 +3,7 @@ This is the code of CHG Shapley used in data valuation.
 
 Please run the `cifar10-embeddings_classification_loss*shap.ipynb` file in the `examples` directory to reproduce the results. 
 
-CHG Shapley valuation method is implemented in `opendataval/dataval/influence/chgshap.py`. Due to the use of sklearn in the original code, CHG Shapley can only be run on the `cifar10-embeddings` dataset and other larger datasets.
+CHG Shapley valuation method is implemented in `opendataval/dataval/influence/chgshaply.py`. Due to the use of sklearn in the original code, CHG Shapley can only be run on the `cifar10-embeddings` dataset and other larger datasets.
 
 ## OpenDataVal
 
